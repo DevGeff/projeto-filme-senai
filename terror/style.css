@@ -1,0 +1,57 @@
+
+
+body{
+	display: flex;
+	font-family: Book Antiqua;
+	background-image:url("https://wallpaper.forfun.com/fetch/53/532d7b32d60a835e70893ae11aa4d45f.jpeg");
+	background-position: center;
+	background-size: auto;
+	
+	flex-direction: column;
+	align-items: center;
+	
+	}
+
+h1{
+	font-size: 60px;
+	color:#FF9F00;
+	
+	}
+h3{
+	color:#FF9F00;
+	}
+	
+header{
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-bettwen;
+	}
+	
+div{
+	display: flex;
+	justify-content: align-items;
+	}
+	
+main{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	}
+	
+section{
+	
+	display: flex;
+	justify-content: center;
+	}
+
+
+article{ 
+	display: flex;
+	
+	}
+	
+.Sinopse{
+	display: flex;
+	font-size: 24px;
+	padding-right: 25%;
+	}
